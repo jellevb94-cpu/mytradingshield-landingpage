@@ -46,7 +46,7 @@ Under no circumstances, including but not limited to:
 - errors in automated order execution,
 - or any other technical or operational failure,
 
-shall the licensor, MyTradingShield, its owners, affiliates, or employees be liable for any direct, indirect, incidental, special, punitive, or consequential losses, damages, or costs of any kind arising from the use of the Software. This waiver applies worldwide, without exception.
+shall the licensor, MyTradingShield, its owners, affiliates, or employees, nor its executive broker, Interactive Brokers LLC, be liable for any direct, indirect, incidental, special, punitive, or consequential losses, damages, or costs of any kind arising from the use of the Software. This waiver applies worldwide, without exception.
 
 ---
 
@@ -112,4 +112,5 @@ This approach helps mitigate risks and allows users to gain confidence in the sy
 
 MyTradingShield TEAM
 © 2025 MyTradingShield. All rights reserved.
+
 
