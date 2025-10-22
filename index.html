@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MyTradingShield Test Panel</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #4caf50;
+            margin-top: 40px;
+            font-size: 32px;
+            text-align: center;
+        }
+
+        .welcome-text {
+            max-width: 750px;
+            text-align: center;
+            margin-top: 20px;
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        .steps-text {
+            background-color: #1e1e1e;
+            padding: 25px 30px;
+            border-radius: 12px;
+            max-width: 750px;
+            text-align: left;
+            margin-top: 30px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            color: #e0e0e0;
+        }
+
+        .steps-text h2 {
+            color: #4caf50;
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        .steps-text ol {
+            line-height: 1.6;
+            font-size: 16px;
+            padding-left: 20px;
+        }
+
+        a {
+            color: #4caf50;
+            text-decoration: underline;
+        }
+
+        .button {
+            display: inline-block;
+            margin: 25px 0 50px 0;
+            padding: 12px 28px;
+            background-color: #4caf50;
+            color: #fff;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 8px;
+            text-decoration: none;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .button:hover {
+            background-color: #43a047;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Welkomsttekst -->
+    <h1>Welcome to the MyTradingShield Test Panel</h1>
+    <p class="welcome-text">
+        We are genuinely thrilled to have you here! By joining our test panel, you are among a select group of users who will explore the power of MyTradingShield. Each tester receives a unique User ID that grants free access for a limited period. 
+        <br><br>
+        This is your opportunity to experience our software firsthand, understand its features, and see how it can support you in maintaining control over your trading decisions. Enjoy the journey!
+    </p>
+
+    <!-- Stappenplan -->
+    <div class="steps-text">
+        <h2>Getting Started with MyTradingShield</h2>
+        <ol>
+            <li>Ensure you have downloaded Trader Workstation (TWS) from Interactive Brokers.</li>
+            <li>Download the IBKR TWS API from <a href="https://interactivebrokers.github.io/#" target="_blank">here</a> and verify that your version is the latest stable release. Inside TWS, navigate to <em>File → Change Version</em>; the faded version number indicates your current version.</li>
+            <li>Read and understand the <a href="eula.txt" target="_blank">EULA and Terms & Conditions</a>.</li>
+            <li>Download MyTradingShield using the button below.</li>
+            <li>Embark on your path to a successful trading journey where emotions do not dictate your decisions.</li>
+        </ol>
+    </div>
+
+    <!-- Downloadknop -->
+    <a class="button" href="https://github.com/jellevb94-cpu/mytradingshield-landingpage/releases/download/v1/MyTradingShieldSetup.exe" download>
+        Download Installer
+    </a>
+
+</body>
+</html>
