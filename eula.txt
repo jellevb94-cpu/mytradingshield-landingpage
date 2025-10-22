@@ -1,0 +1,115 @@
+MYTRADINGSHIELD TERMS & CONDITIONS (EULA)
+
+1. License
+This test version is only available to selected test panel members. The license can be revoked at any time by the developer.
+
+2. Liability
+The user is responsible for the use of the software. The developer is not liable for any losses.
+
+3. Restrictions
+It is prohibited to copy, distribute, or modify the software without written permission from the developer.
+
+MYTRADINGSHIELD END USER LICENSE AGREEMENT (EULA) & TERMS AND CONDITIONS (T&C)
+================================================================================
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE INSTALLING OR USING MyTradingShield.
+
+BY INSTALLING, COPYING, OR OTHERWISE USING MyTradingShield, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE MyTradingShield.
+
+---
+
+1. LICENSE GRANT
+----------------
+MyTradingShield (“Software”) is licensed, not sold, to you for use. This license permits you to install and use one copy of the Software on your personal or company devices in accordance with these terms.
+
+---
+
+2. SCOPE OF USE
+---------------
+You may use MyTradingShield solely for personal or internal business purposes. You may not redistribute, sell, sublicense, or make the Software available to any third party without express written permission from the licensor.
+
+---
+
+3. AUTOMATED TRADING
+-------------------
+MyTradingShield may execute trades automatically using your Interactive Brokers (IBKR) account. You acknowledge that automated trading carries inherent risks, including but not limited to market volatility, system errors, or network failures. You are solely responsible for all trading decisions and outcomes.
+
+---
+
+4. ABSOLUTE RISK WAIVER
+-----------------------
+Under no circumstances, including but not limited to:
+
+- software malfunction,
+- unexpected behavior,
+- security breaches or hacking,
+- errors in automated order execution,
+- or any other technical or operational failure,
+
+shall the licensor, MyTradingShield, its owners, affiliates, or employees be liable for any direct, indirect, incidental, special, punitive, or consequential losses, damages, or costs of any kind arising from the use of the Software. This waiver applies worldwide, without exception.
+
+---
+
+5. NO WARRANTIES
+----------------
+MyTradingShield is provided “AS IS” and WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. Use of the Software is at your sole risk.
+
+---
+
+6. USER RESPONSIBILITIES
+------------------------
+You agree to:
+
+- Follow all applicable trading rules, regulations, and laws.
+- Regularly monitor your trading account.
+- Implement appropriate risk management and security measures for your account credentials.
+- Accept full responsibility for any trades executed via MyTradingShield.
+
+---
+
+7. ACCOUNT INFORMATION
+----------------------
+You are solely responsible for providing accurate and valid account information for Interactive Brokers or any connected service. MyTradingShield is not responsible for failed or incorrect trades due to inaccurate account data.
+
+---
+
+8. DATA COLLECTION AND PRIVACY
+------------------------------
+MyTradingShield may collect basic configuration data for functionality (such as selected symbols, trading limits, and preferences). No personal financial information is stored unless explicitly configured by you. MyTradingShield is not responsible for data loss or unauthorized access.
+
+---
+
+9. TERMINATION
+--------------
+This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any term of this agreement. Upon termination, you must uninstall and delete all copies of the Software.
+
+---
+
+10. GOVERNING LAW
+-----------------
+This Agreement is governed by international software licensing principles. You agree that any disputes arising from this Software shall be subject to arbitration or jurisdiction in accordance with applicable laws, and the licensor retains full protection under all legal frameworks.
+
+---
+
+11. ENTIRE AGREEMENT
+--------------------
+This EULA and T&C constitute the entire agreement between you and MyTradingShield regarding the Software. It supersedes all prior agreements or understandings, whether written or oral.
+
+---
+
+12. ACCEPTANCE
+--------------
+By installing or using MyTradingShield, you acknowledge that you have read, understood, and agree to be bound by all the terms above, including the absolute risk waiver.
+
+---
+
+13. RECOMMENDED USAGE
+We strongly recommend:
+- Testing the Software in "Soft Mode" first if you intend to use a live trading account.
+- Using "Hard Mode" in a Paper (simulated) account first to become familiar with the software's behavior and automated trading features.
+This approach helps mitigate risks and allows users to gain confidence in the system before trading with real funds.
+---
+
+MyTradingShield TEAM
+© 2025 MyTradingShield. All rights reserved.
+
